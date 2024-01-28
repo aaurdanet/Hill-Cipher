@@ -14,7 +14,7 @@ C
 bash
 
 gcc -o HillCipher HillCipher.c
-./pa01 kX.txt pX.txt
+./HillCipher kX.txt pX.txt
 
 
 Input Files
